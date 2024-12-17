@@ -11,6 +11,6 @@
         "occurrence", "incident", "evidence", "statement", "brief", "charge", "caution", "prosecution",
         "motorist", "pedestrian", "collision", "traffic", "highway", "roadway", "footpath", "diversion"
     ],
-    "version": "1.0",
+    "version": "1.1",
     "lastUpdated": "2024-12-17T00:00:00Z"
 }
