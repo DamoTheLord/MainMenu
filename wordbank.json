@@ -1,5 +1,4 @@
 {
-
 "words": [
   "police", "patrol", "report", "assist", "attend", "safety", "secure", "check", "watch", "guard", "help", "uniform", "badge", "duty", "call",
                 "incident", "emergency", "respond", "dispatch", "backup", "pursuit", "arrest", "search", "witness", "victim", "suspect", "offender", "scene", "area", "vehicle", "radio", "lights", "siren", "unit", "patrol", "station", "street", "road",
@@ -7,6 +6,6 @@
                 "jurisdiction", "apprehend", "perpetrator", "intelligence", "surveillance", "prosecution", "investigation", "enforcement", "compliance", "regulation", "legislation", "authority", "detention", "restraint", "resistance", "confrontation", "aggression", "deescalate", "negotiate", "mediate", "intervene", "coordinate", "mobilize", "tactical", "strategic", "operational", "administrative", "procedural", "protocol", "directive",
                 "indictable", "culpable", "negligent", "grievous", "affidavit", "deposition", "testimony", "corroborate", "substantiate", "admissible", "jurisdiction", "precedent", "legislation", "regulation", "statutory", "discretionary", "provisional", "preliminary", "subsequent", "concurrent", "pursuant", "contravene", "constitute", "facilitate", "implement", "coordinate", "authorize", "authenticate", "validate"
     ],
-    "version": "1.1",
+    "version": "1.2",
     "lastUpdated": "2024-12-17T00:00:00Z"
 }
