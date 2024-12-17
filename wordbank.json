@@ -1,16 +1,10 @@
 "words": [
-                // Level 1 - Basic Police Terms
-                "police", "patrol", "report", "assist", "attend", "safety", "secure", "check", "watch", "guard", "help", "uniform", "badge", "duty", "call",
-                // Level 2 - Common Operations
+  "police", "patrol", "report", "assist", "attend", "safety", "secure", "check", "watch", "guard", "help", "uniform", "badge", "duty", "call",
                 "incident", "emergency", "respond", "dispatch", "backup", "pursuit", "arrest", "search", "witness", "victim", "suspect", "offender", "scene", "area", "vehicle", "radio", "lights", "siren", "unit", "patrol", "station", "street", "road",
-                // Level 3 - Technical Terms
                 "constable", "sergeant", "inspector", "detective", "commissioner", "prosecution", "evidence", "statement", "interview", "investigation", "surveillance", "operation", "tactical", "forensic", "intelligence", "occurrence", "infringement", "custody", "warrant", "charge", "caution", "brief", "magistrate", "courthouse", "gaol", "defence", "offence", "enquiry", "domestic", "incident", "disturbance", "assault", "robbery", "burglary",
-                // Level 4 - Complex Operations
                 "jurisdiction", "apprehend", "perpetrator", "intelligence", "surveillance", "prosecution", "investigation", "enforcement", "compliance", "regulation", "legislation", "authority", "detention", "restraint", "resistance", "confrontation", "aggression", "deescalate", "negotiate", "mediate", "intervene", "coordinate", "mobilize", "tactical", "strategic", "operational", "administrative", "procedural", "protocol", "directive",
-                // Level 5 - Advanced Terminology
-                "indictable", "culpable", "negligent", "grievous", "affidavit", "deposition", "testimony", "corroborate", "substantiate", "admissible", "jurisdiction", "precedent", "legislation", "regulation", "statutory", "discretionary", "provisional", "preliminary", "subsequent", "concurrent", "pursuant", "contravene", "constitute", "facilitate", "implement", "coordinate", "authorize", "authenticate", "validate", "verify"
-            ],
-            "version": "1.1",
-            "lastUpdated": "2024-12-17T00:00:00Z"
-        };
-    }
+                "indictable", "culpable", "negligent", "grievous", "affidavit", "deposition", "testimony", "corroborate", "substantiate", "admissible", "jurisdiction", "precedent", "legislation", "regulation", "statutory", "discretionary", "provisional", "preliminary", "subsequent", "concurrent", "pursuant", "contravene", "constitute", "facilitate", "implement", "coordinate", "authorize", "authenticate", "validate"
+    ],
+    "version": "1.1",
+    "lastUpdated": "2024-12-17T00:00:00Z"
+}
