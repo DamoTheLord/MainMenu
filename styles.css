@@ -1,0 +1,85 @@
+:root {
+    --primary-color: #2d333b;
+    --secondary-color: #22272e;
+    --text-color: #adbac7;
+    --accent-color: #539bf5;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen;
+    background-color: var(--primary-color);
+    color: var(--text-color);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.bento-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.item {
+    background-color: var(--secondary-color);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+.item:hover {
+    transform: translateY(-5px);
+}
+
+.profile {
+    grid-column: span 3;
+    text-align: center;
+}
+
+.profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.projects {
+    grid-column: span 2;
+}
+
+.social {
+    grid-column: span 1;
+}
+
+.blog {
+    grid-column: span 2;
+}
+
+.stats {
+    grid-column: span 1;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.social-btn {
+    padding: 0.5rem 1rem;
+    background-color: var(--accent-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    transition: opacity 0.3s ease;
+}
+
+.social-btn:hover {
+    opacity: 0.8;
+}
