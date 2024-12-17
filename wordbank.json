@@ -1,8 +1,15 @@
 {
     "words": [
-        "the", "be", "to", "of", "and", "a", "in", "that", "have", "I",
-        "it", "for", "not", "on", "with", "he", "as", "you", "do", "at",
-        "this", "but", "his", "by", "from", "they", "we", "say", "her", "she"
+        "offence", "enquiry", "neighbourhood", "behaviour", "centre", "licence", "defence", "programme",
+        "pursuit", "backup", "dispatch", "patrol", "investigation", "arrest", "cordon", "emergency",
+        "precinct", "residential", "intersection", "station", "complex", "pharmacy", "gaol", "magistrate",
+        "apprehend", "detain", "pursue", "investigate", "respond", "attend", "secure", "evacuate",
+        "constable", "sergeant", "inspector", "commissioner", "detective", "superintendent", "warrant", "custody",
+        "disturbance", "burglary", "assault", "robbery", "domestic", "larceny", "infringement", "offender",
+        "vehicle", "radio", "handcuffs", "baton", "firearm", "uniform", "lights", "siren", "torch", "capsicum",
+        "witness", "suspect", "victim", "complainant", "juvenile", "perpetrator", "magistrate", "barrister",
+        "occurrence", "incident", "evidence", "statement", "brief", "charge", "caution", "prosecution",
+        "motorist", "pedestrian", "collision", "traffic", "highway", "roadway", "footpath", "diversion"
     ],
     "version": "1.0",
     "lastUpdated": "2024-12-17T00:00:00Z"
