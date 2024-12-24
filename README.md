@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Main Menu</h1>
-  <a href="https://diversm.com/spell">🔥 View the Menu!</a>
+  <a href="https://damothelord.github.io/MainMenu/">✨ View the Menu!</a>
   <a href="https://diversm.com/spell">🔥 Play the Game!</a>
   <p>Ensuring you know where to get exactly what you need!</p>
   
